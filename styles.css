@@ -1,0 +1,112 @@
+.picture1 {
+    width: 300px;
+    border: 3px solid blue;
+    margin: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+.picture {
+    width: 300px;
+    border: 3px solid green;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picture2 {
+    width: 300px;
+    border: 3px solid red;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picture3 {
+    width: 300px;
+    border: 3px solid orange;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picture4 {
+    width: 300px;
+    border: 3px solid;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picture5 {
+    width: 300px;
+    border: 3px solid;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Gupter', serif;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Gupter', serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    Font-size: 20px;
+    text-align: center;
+    font-family: 'Gupter', serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+
+.Math {
+
+    color: green;
+}
+
+.Physical {
+    color: blue;
+}
+
+.History {
+    color: red;
+}
+
+.Career {
+    color: orange;
+}
+
+.Advisory {
+    color: grey;
+}
+
+.Coding {
+    color: pink;
+}
+
+.English {
+    color: grey;
+}
